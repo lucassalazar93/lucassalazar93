@@ -63,7 +63,7 @@ Landing page para desayunos corporativos, enfocada en experiencias visuales y ge
 
 ## 📫 ¿Conectamos?
 
-- 🌐 Portafolio: [www.lukbyte.com](https://lucas-salazar-portfolio.vercel.app/)
+- 🌐 Portafolio: [www.protafolioLucasSalazar.com](https://lucas-salazar-portfolio.vercel.app/)
 - 📬 Email: lucassalazar.work93@gmail.com
 - 💼 LinkedIn: [lucassalazar93](https://www.linkedin.com/in/lucas-salazar-722b79319/)
 - 💻 GitHub: [github.com/lucassalazar93](https://github.com/lucassalazar93)
