@@ -31,7 +31,7 @@ Mi portafolio profesional con diseño emocional, animaciones suaves, enfoque res
 🔹 **Hackea la IA**  
 Landing page optimizada para captar leads con prompts IA y automatización por EmailJS. Diseño UX centrado en conversión y aprendizaje.  
 
-🔹 **Sabor a Felicidad**  
+🔹 [**Sabor A Felicidad**](https://github.com/lucassalazar93/sabor-a-felicidad-web)   
 Landing page para desayunos corporativos, enfocada en experiencias visuales y gestión de productos.
 
 ---
