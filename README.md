@@ -34,7 +34,7 @@ Plataforma integral que une recetas interactivas, terapia culinaria y una tienda
 🔹 [**Lukbyte**]()  
 Mi portafolio profesional con diseño emocional, animaciones suaves, enfoque responsivo y valores de marca.  
 
-🔹 [**Hackea La IA**](https://github.com/lucassalazar93/lukbyte-my-website) 
+🔹 [**Hackea La IA**](https://github.com/lucassalazar93/hackea-la-ia) 
 Landing page optimizada para captar leads con prompts IA y automatización por EmailJS. Diseño UX centrado en conversión y aprendizaje.  
 
 🔹 [**Sabor A Felicidad**](https://github.com/lucassalazar93/sabor-a-felicidad-web)  
