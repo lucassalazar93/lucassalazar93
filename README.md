@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=lucassalazar93&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=lucassalazar93&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -79,3 +79,4 @@ Landing page para desayunos corporativos, enfocada en experiencias visuales y ge
 ---
 
 <p align="center"><i>“Desarrollo con alma. Porque la tecnología también puede tener corazón.”</i></p>
+
