@@ -6,6 +6,10 @@
   <i>Desarrollo accesible, emocional y con propósito ✨</i>
 </p>
 
+<p align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=lucassalazar93&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mí
@@ -17,6 +21,8 @@ Hola, soy Lucas. Desarrollador web enfocado en la creación de experiencias digi
 - 🤖 Explorando la IA como aliada creativa para el desarrollo web
 - ✨ Apasionado por el diseño UX/UI, la accesibilidad y la mejora continua
 - 🚀 En constante aprendizaje para construir soluciones funcionales y humanas
+
+📚 Actualmente aprendiendo: ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white) + ![IA](https://img.shields.io/badge/IA-creativa-ff5e00?style=flat&logo=openai&logoColor=white)
 
 ---
 
@@ -31,7 +37,7 @@ Mi portafolio profesional con diseño emocional, animaciones suaves, enfoque res
 🔹 **Hackea la IA**  
 Landing page optimizada para captar leads con prompts IA y automatización por EmailJS. Diseño UX centrado en conversión y aprendizaje.  
 
-🔹 [**Sabor A Felicidad**](https://github.com/lucassalazar93/sabor-a-felicidad-web)   
+🔹 [**Sabor A Felicidad**](https://github.com/lucassalazar93/sabor-a-felicidad-web)  
 Landing page para desayunos corporativos, enfocada en experiencias visuales y gestión de productos.
 
 ---
@@ -61,12 +67,14 @@ Landing page para desayunos corporativos, enfocada en experiencias visuales y ge
 
 ---
 
-## 📫 ¿Conectamos?
+## 🔗 ¿Conectamos?
 
-- 🌐 Portafolio: [www.protafolioLucasSalazar.com](https://lucas-salazar-portfolio.vercel.app/)
-- 📬 Email: lucassalazar.work93@gmail.com
-- 💼 LinkedIn: [lucassalazar93](https://www.linkedin.com/in/lucas-salazar-722b79319/)
-- 💻 GitHub: [github.com/lucassalazar93](https://github.com/lucassalazar93)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Salazar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-salazar-722b79319/)
+[![Portafolio](https://img.shields.io/badge/🌐%20Portafolio-lukbyte.com-orange?style=flat)](https://lucas-salazar-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-lucassalazar.work93@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucassalazar.work93@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-lucassalazar93-181717?style=flat&logo=github&logoColor=white)](https://github.com/lucassalazar93)
+
+<!-- 📄 [Descargar mi CV](https://drive.google.com/your-link) -->
 
 ---
 
