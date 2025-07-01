@@ -31,10 +31,10 @@ Hola, soy Lucas. Desarrollador web enfocado en la creación de experiencias digi
 🔹 [**Soy Arte**](https://github.com/lucassalazar93/soyarte_vite_3.0_final)  
 Plataforma integral que une recetas interactivas, terapia culinaria y una tienda digital. Construida con React, Vite, Node.js y MySQL.  
 
-🔹 [**Lukbyte**](https://github.com/lucassalazar93/lukbyte-my-website)  
+🔹 [**Lukbyte**]()  
 Mi portafolio profesional con diseño emocional, animaciones suaves, enfoque responsivo y valores de marca.  
 
-🔹 **Hackea la IA**  
+🔹 [**Hackea La IA**](https://github.com/lucassalazar93/lukbyte-my-website) 
 Landing page optimizada para captar leads con prompts IA y automatización por EmailJS. Diseño UX centrado en conversión y aprendizaje.  
 
 🔹 [**Sabor A Felicidad**](https://github.com/lucassalazar93/sabor-a-felicidad-web)  
