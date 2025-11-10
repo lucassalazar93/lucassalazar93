@@ -1,7 +1,7 @@
 <h1 align="center">✨ Lucas Salazar ✨</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> • React • Node.js • MySQL • MongoDB <br/>
+   • React • Node.js • MySQL • MongoDB <br/>
   Fundador de <strong>Soy Arte</strong> 💜 | <strong>Lukbyte</strong> ⚡ | <strong>Hackea la IA</strong> 🤖 <br/>
   <i>Desarrollo accesible, emocional y con propósito ✨</i>
 </p>
