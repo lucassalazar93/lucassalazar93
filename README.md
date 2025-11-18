@@ -16,8 +16,8 @@
 
 Hola, soy Lucas. Desarrollador web enfocado en la creación de experiencias digitales que no solo funcionan, sino que también **conectan emocionalmente** con las personas.
 
-- 🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA)
-- 🔧 Stack favorito: React, Node.js, MySQL, MongoDB, Tailwind
+- 🎓 Tecnólogo en Análisis y Desarrollo de Software
+- 🔧 Stack favorito: React, Node.js, MySQL, MongoDB, css puro
 - 🤖 Explorando la IA como aliada creativa para el desarrollo web
 - ✨ Apasionado por el diseño UX/UI, la accesibilidad y la mejora continua
 - 🚀 En constante aprendizaje para construir soluciones funcionales y humanas
