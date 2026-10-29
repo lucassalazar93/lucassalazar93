@@ -75,7 +75,7 @@ Ecosistema digital completo (Recetas + E-commerce) con enfoque en UX emocional, 
 
 ## 🔗 ¿Conectamos?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-salazar-722b79319/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-salazar-fullstack/)
 [![Portafolio](https://img.shields.io/badge/🌐%20Portafolio-Ver%20Proyectos-orange?style=flat)](https://lucas-salazar-portfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-lucassalazar.work93@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucassalazar.work93@gmail.com)
 
